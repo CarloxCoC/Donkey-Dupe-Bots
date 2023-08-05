@@ -72,7 +72,7 @@ export default function Home() {
         <a target="_blank" className="projects" href="https://6b6t.vercel.app/">Interactive Map</a>
         <a target="_blank" className="projects" href="https://www.youtube.com/watch?v=uXhc0YpfUCA">13M obsidian logo</a>
         <a target="_blank" className="projects" href="https://www.youtube.com/watch?v=fIIR2w81xJA">5m Obsidian logo</a>
-        <a target="_blank" className="discord" href="https://discord.com/w6Yu6DF">Discord</a>
+        <a target="_blank" className="discord" href="https://discord.gg/w6Yu6DF">Discord</a>
       </div>
       
       </header>

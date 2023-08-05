@@ -1,4 +1,4 @@
-// File: C:\Users\Carlox\Desktop\Code\donkey-dupe-react\app\layout.js
+// File: C:\Users\Carlox\Desktop\Code\Donkey-Dupe-Bots\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

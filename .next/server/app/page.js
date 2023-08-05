@@ -156,7 +156,7 @@ module.exports = require("url");
 
 /***/ }),
 
-/***/ 9115:
+/***/ 7855:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -186,7 +186,7 @@ __webpack_require__.r(__webpack_exports__);
         '',
         {
         children: ['__PAGE__', {}, {
-          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2114)), "C:\\Users\\Carlox\\Desktop\\Code\\donkey-dupe-react\\app\\page.js"],
+          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2114)), "C:\\Users\\Carlox\\Desktop\\Code\\Donkey-Dupe-Bots\\app\\page.js"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 7481))).default(props))],
     apple: [],
@@ -197,7 +197,7 @@ __webpack_require__.r(__webpack_exports__);
         }]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 5764)), "C:\\Users\\Carlox\\Desktop\\Code\\donkey-dupe-react\\app\\layout.js"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 5764)), "C:\\Users\\Carlox\\Desktop\\Code\\Donkey-Dupe-Bots\\app\\layout.js"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 7481))).default(props))],
     apple: [],
@@ -208,7 +208,7 @@ __webpack_require__.r(__webpack_exports__);
         }
       ]
       }.children;
-    const pages = ["C:\\Users\\Carlox\\Desktop\\Code\\donkey-dupe-react\\app\\page.js"];
+    const pages = ["C:\\Users\\Carlox\\Desktop\\Code\\Donkey-Dupe-Bots\\app\\page.js"];
 
     
 
@@ -233,25 +233,25 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 3601:
+/***/ 9580:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 5843))
 
 /***/ }),
 
-/***/ 126:
+/***/ 2671:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
+Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 1232, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 2987, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 831, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 6926, 23));
-Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 4282, 23));
-Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 1232, 23))
+Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 4282, 23))
 
 /***/ }),
 
-/***/ 8793:
+/***/ 3235:
 /***/ (() => {
 
 
@@ -408,7 +408,7 @@ function Home() {
                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                 target: "_blank",
                                 className: "discord",
-                                href: "https://discord.com/w6Yu6DF",
+                                href: "https://discord.gg/w6Yu6DF",
                                 children: "Discord"
                             })
                         ]
@@ -667,7 +667,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1363);
 
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Users\Carlox\Desktop\Code\donkey-dupe-react\app\page.js`)
+const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Users\Carlox\Desktop\Code\Donkey-Dupe-Bots\app\page.js`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -719,7 +719,7 @@ __webpack_require__.r(__webpack_exports__);
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [697,577], () => (__webpack_exec__(9115)));
+var __webpack_exports__ = __webpack_require__.X(0, [697,577], () => (__webpack_exec__(7855)));
 module.exports = __webpack_exports__;
 
 })();
